@@ -2,6 +2,7 @@
 Youtube Video Link : https://youtu.be/wKBndbpjCTI
 
 NBA Blog - CS50x Final Project
+
 Welcome to the NBA Blog, a simple yet engaging platform to explore and stay updated on the latest NBA news and insights. This project is the culmination of my efforts in the CS50x course, where I aimed to create a user-friendly blog using HTML and CSS.
 Introduction
 The NBA Blog is a project that focuses on delivering NBA-related content in a clean and organized manner. The blog includes a homepage and an about me page to provide users with an overview of the content and me.
