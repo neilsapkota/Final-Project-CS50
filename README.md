@@ -21,8 +21,12 @@ Comment Section
 The comment section is powered by the Facebook Comments plugin, offering users a familiar and convenient platform to share their thoughts on the articles. Engage in discussions and connect with other NBA enthusiasts.
 
 How It Works
+
 1.Navigate to the homepage to discover a curated list of NBA articles.
+
 2.Click the "Read More" button to access the full article page.
+
 3.Explore the full article and scroll down to find the Facebook Comments plugin for commenting.
+
 4.Visit the "About Me" page to learn more about the author and the inspiration behind the NBA Blog.
 
