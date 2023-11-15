@@ -1,0 +1,127 @@
+nav .navbar-brand
+{
+    font-size: xx-large;
+}
+
+/* Colors for brand */
+nav .navbar-brand .blue
+{
+    color: #537fbe;
+}
+nav .navbar-brand .red
+{
+    color: #ea433b;
+}
+nav .navbar-brand .yellow
+{
+    color: #f5b82e;
+}
+nav .navbar-brand .green
+{
+    color: #2e944b;
+}
+.blog-post h2 {
+    margin-top: 0;
+}
+
+
+.blog-post p {
+    margin-bottom: 10px;
+    border-style: double;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    border-color: #8B0000;
+    border-radius: 10px;
+}
+
+.read-more {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: blue;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.read-more:hover {
+    background-color: darkblue;
+}
+
+@media (max-width: 600px) {
+    .container {
+        padding: 10px;
+    }
+
+    .blog-post {
+        padding: 10px;
+    }
+}
+
+
+.paragraph {
+    border-style:solid;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    border-color:#8B0000;
+    border-radius:10px;
+    font-style: Arial;
+    font-size: 16px;
+    line-height: 150%;
+}
+
+fa {
+    padding: 50px;
+  text-align: center;
+    margin: 5px 2px;
+    font-size: 30px;
+    width: 50px;
+  }
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+    width: 50px;
+    margin: 5px 5px;
+    font-size: 30px;
+    padding: 10px;
+  }
+
+  .fa-youtube {
+    background: #bb0000;
+    color: white;
+    width: 50px;
+    margin: 5px 5px;
+    font-size: 30px;
+    padding: 10px;
+  }
+
+ .fa-github {
+    color : white;
+    width: 50px;
+    margin: 5px 5px;
+    font-size: 30px;
+    padding: 10px;
+ }
+
+ .fa-instagram {
+    color : white;
+    width: 50px;
+    margin: 5px 5px;
+    font-size: 30px;
+    padding: 10px;
+ }
+
+  .fa:hover {
+      opacity: 3.9;
+  }
+
+  .social-links {
+    text-align: center;
+  }
+
+  .social-links a {
+    display: inline-block;
+    margin: 0 10px;
+  }
