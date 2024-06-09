@@ -1,5 +1,5 @@
 # Final-Project-CS50
-Youtube Video Link : https://youtu.be/1Tp9KY9Atjg
+Youtube Video Link : https://www.youtube.com/watch?v=s7r859Nffuw
 
 NBA Blog - CS50x Final Project
 
